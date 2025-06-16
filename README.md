@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**star8469/star8469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**star8469.github.com/star8469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
